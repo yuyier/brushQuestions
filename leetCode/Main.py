@@ -1,7 +1,9 @@
 from list_node import Lists
+
 # from add_two_numbers02 import AddTwoNumbers02
 # from length_of_longest_substring03 import Solution
-from find_median_sorted_array04 import FindMedianSortedArrays
+# from find_median_sorted_array04 import FindMedianSortedArrays
+from longest_palindrome05 import LongestPalindrome
 
 
 def create_list():
@@ -57,11 +59,28 @@ def return_lsit():
     return list1, list2
 
 
+def palindromeStr():
+    # s = 'aba'
+    # s = 'aatuibbb'
+    # s = 'aa'
+    # s = 'aaa'
+    # s = 'aaaaaaaabaaaaaaac'
+    # s = 'qwerttyyyu'
+    # s = 'aba'
+    s = 'babad'
+    return s
+
+
 if __name__ == '__main__':
-    # l1, l2 = create_list()
-    # list = AddTwoNumbers02().add_two_numbers(l1, l2)
-    # print(list)
-    # index_str()
-    # print(Solution().lengthOfLongestSubstring(return_str()))
-    list1, list2 = return_lsit()
-    print(FindMedianSortedArrays().findMedianSortedArrays(list1, list2))
+    s = palindromeStr()
+    # print(s[0] == s[2])
+
+    print(LongestPalindrome().longest_palindrome(s))
+
+# l1, l2 = create_list()
+# list = AddTwoNumbers02().add_two_numbers(l1, l2)
+# print(list)
+# index_str()
+# print(Solution().lengthOfLongestSubstring(return_str()))
+# list1, list2 = return_lsit()
+# print(FindMedianSortedArrays().findMedianSortedArrays(list1, list2))
