@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/leetCode/Reverse07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetCode/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/convert06.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/convert06.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,14 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetCode/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+            <state relative-caret-position="1470">
+              <caret line="98" column="10" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reverse07.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetCode/Reverse07.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -86,8 +95,9 @@
         <option value="$PROJECT_DIR$/leetCode/longest_palindrome.py" />
         <option value="$PROJECT_DIR$/leetCode/longest_palindrome05.py" />
         <option value="$PROJECT_DIR$/leetCode/convert07.py" />
-        <option value="$PROJECT_DIR$/leetCode/Main.py" />
         <option value="$PROJECT_DIR$/leetCode/convert06.py" />
+        <option value="$PROJECT_DIR$/leetCode/Main.py" />
+        <option value="$PROJECT_DIR$/leetCode/Reverse07.py" />
       </list>
     </option>
   </component>
@@ -98,6 +108,7 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -125,32 +136,119 @@
               <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="convert06.py" type="8704e2dd:PyFileNode" />
-              <item name="Convert" type="dd8bbb05:PyElementNode" />
-            </path>
-            <path>
-              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="find_median_sorted_array04.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="find_median_sorted_array04.py" type="8704e2dd:PyFileNode" />
-              <item name="FindMedianSortedArrays" type="dd8bbb05:PyElementNode" />
-            </path>
-            <path>
-              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Main.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
               <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Reverse07.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Reverse07.py" type="8704e2dd:PyFileNode" />
+              <item name="Reverse" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
               <item name="protocalAll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="734389694" type="70582d5e:PySkeletonsNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="734389694" type="70582d5e:PySkeletonsNode" />
+              <item name="_ast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="734389694" type="70582d5e:PySkeletonsNode" />
+              <item name="_ast" type="462c0819:PsiDirectoryNode" />
+              <item name="Pow.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="734389694" type="70582d5e:PySkeletonsNode" />
+              <item name="_ast" type="462c0819:PsiDirectoryNode" />
+              <item name="Pow.py" type="8704e2dd:PyFileNode" />
+              <item name="Pow" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="734389694" type="70582d5e:PySkeletonsNode" />
+              <item name="builtins.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="future" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="future" type="462c0819:PsiDirectoryNode" />
+              <item name="builtins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="future" type="462c0819:PsiDirectoryNode" />
+              <item name="builtins" type="462c0819:PsiDirectoryNode" />
+              <item name="misc.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="ISO8583" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,7 +258,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="tcp&#9;FILE&#9;file:///Users/liqing.chen/Desktop/shopee/github/brushQuestions/mock_tcp_server/tcpServer.py" />
+    <property name="SearchEverywhereHistoryKey" value="pow&#9;null&#9;null&#10;tcp&#9;FILE&#9;file:///Users/liqing.chen/Desktop/shopee/github/brushQuestions/mock_tcp_server/tcpServer.py" />
     <property name="configurable.Global.libraries.is.expanded" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -372,58 +470,58 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2826618" side_tool="true" weight="0.32923076" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.17309813" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7173382" weight="0.32083791" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2826618" side_tool="true" weight="0.32923076" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.3384785" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7173382" weight="0.05292172" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.4244763" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.5358324" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.28923076" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.31897435" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.7173382" visible="true" weight="0.32923076" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2826618" side_tool="true" visible="true" weight="0.32923076" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.4244763" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7173382" visible="true" weight="0.05292172" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2826618" side_tool="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -607,6 +705,21 @@
           <line>31</line>
           <option name="timeStamp" value="100" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/Reverse07.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/Reverse07.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/Reverse07.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -615,7 +728,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="101" />
+      <option name="time" value="106" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -912,20 +1025,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/collections/abc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/tokenize.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/IdeaIC2018.1/python_stubs/734389694/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="479" column="4" selection-start-line="479" selection-start-column="4" selection-end-line="479" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ISO8583/ISO8583.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6281" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/IdeaIC2018.1/python_stubs/734389694/_ast/Pow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/future/builtins/misc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetCode/convert06.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state>
+          <caret selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetCode/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+        <state relative-caret-position="1470">
+          <caret line="98" column="10" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/Reverse07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>

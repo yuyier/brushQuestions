@@ -4,10 +4,11 @@ from list_node import Lists
 # from length_of_longest_substring03 import Solution
 # from find_median_sorted_array04 import FindMedianSortedArrays
 # from longest_palindrome05 import LongestPalindrome
-from convert06 import Convert
+# from convert06 import Convert
+from Reverse07 import Reverse
 
 
-def create_list():
+def create_list01():
     # list1 = [3, 5, 1, 7, 9]
     # list2 = [4, 6, 2, 1]
     list1 = [5]
@@ -17,19 +18,19 @@ def create_list():
     return link_list1, link_list2
 
 
-def index_str():
+def index_str02():
     str = 'absdfew'
     # print(str.index('e'))
     for index in range(len(str)):
         print(str[index])
 
 
-def return_str():
+def return_str03():
     str = "asbsdssdfuuuuiyyyytfvvvhjyiomnb"
     return str
 
 
-def return_lsit():
+def return_lsit04():
     # list1 = [1, 3, 4, 5, 6, 7, 8, 9, 10]
     # list2 = [2]
     # 5.5
@@ -60,7 +61,7 @@ def return_lsit():
     return list1, list2
 
 
-def palindromeStr():
+def palindromeStr05():
     # s = 'aba'
     # s = 'aatuibbb'
     # s = 'aa'
@@ -72,7 +73,7 @@ def palindromeStr():
     return s
 
 
-def convertStr():
+def convertStr06():
     # str = 'LEETCODEISHIRING'
     # str='LEETCODEISHIRING'
     # str='PAYPALISHIRING'
@@ -87,22 +88,37 @@ def convertStr():
     return str
 
 
+def reverseNum():
+    # num = 123
+    # num = -123
+    # num = -9463847412
+    # num = -8463847412
+    # num = 8463847412
+    # num = 7463847412
+    #num = -20
+    num=20
+    return num
+
+
 if __name__ == '__main__':
-    str = convertStr()
-    print(Convert().convert(str, 1))
-    # print(Convert().convert(str, 3)=='LCIRETOESIIGEDHN')
-    # print(Convert().convert(str, 4)=='LDREOEIIECIHNTSG')
-    # assert Convert().convert(str, 3), "LCIRETOESIIGEDHN"
+    reverse_num = reverseNum()
+    print(Reverse().reverse(reverse_num))
+    # print(pow(2, 31))
+# str = convertStr()
+# print(Convert().convert(str, 1))
+# print(Convert().convert(str, 3)=='LCIRETOESIIGEDHN')
+# print(Convert().convert(str, 4)=='LDREOEIIECIHNTSG')
+# assert Convert().convert(str, 3), "LCIRETOESIIGEDHN"
 
-    # s = palindromeStr()
-    # print(s[0] == s[2])
+# s = palindromeStr()
+# print(s[0] == s[2])
 
-    # print(LongestPalindrome().longest_palindrome(s))
+# print(LongestPalindrome().longest_palindrome(s))
 
-    # l1, l2 = create_list()
-    # list = AddTwoNumbers02().add_two_numbers(l1, l2)
-    # print(list)
-    # index_str()
-    # print(Solution().lengthOfLongestSubstring(return_str()))
-    # list1, list2 = return_lsit()
-    # print(FindMedianSortedArrays().findMedianSortedArrays(list1, list2))
+# l1, l2 = create_list()
+# list = AddTwoNumbers02().add_two_numbers(l1, l2)
+# print(list)
+# index_str()
+# print(Solution().lengthOfLongestSubstring(return_str()))
+# list1, list2 = return_lsit()
+# print(FindMedianSortedArrays().findMedianSortedArrays(list1, list2)
