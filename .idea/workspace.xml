@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode/convert06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/longest_palindrome05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetCode/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/find_median_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/find_median_sorted_array04-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/find_median_sorted_array05.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/find_median_sorted_array04-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/convert06.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/convert06.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,32 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="find_median_sorted_array04.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetCode/find_median_sorted_array04.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="5" selection-start-line="27" selection-end-line="27" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetCode/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="505">
+              <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="convert06.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetCode/convert06.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -106,8 +85,8 @@
         <option value="$PROJECT_DIR$/leetCode/find_median_sorted_array05.py" />
         <option value="$PROJECT_DIR$/leetCode/longest_palindrome.py" />
         <option value="$PROJECT_DIR$/leetCode/longest_palindrome05.py" />
-        <option value="$PROJECT_DIR$/leetCode/Main.py" />
         <option value="$PROJECT_DIR$/leetCode/convert07.py" />
+        <option value="$PROJECT_DIR$/leetCode/Main.py" />
         <option value="$PROJECT_DIR$/leetCode/convert06.py" />
       </list>
     </option>
@@ -122,8 +101,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,6 +138,13 @@
               <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="find_median_sorted_array04.py" type="8704e2dd:PyFileNode" />
+              <item name="FindMedianSortedArrays" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Main.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
@@ -170,7 +156,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,17 +377,17 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.2826618" side_tool="true" weight="0.32923076" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.21389195" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.17309813" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7173382" weight="0.33076075" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7173382" weight="0.32083791" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.42542017" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.4244763" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,17 +401,16 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.28923076" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.28923076" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.31897435" />
@@ -434,10 +419,11 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2826618" side_tool="true" visible="true" weight="0.32923076" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -616,6 +602,11 @@
           <line>37</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/convert06.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -624,11 +615,41 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="91" />
+      <option name="time" value="101" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>new_str + s[i + j * step] + s[column_end]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(j + 1) * step - i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(j+1) * step - i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i + j * step</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new_str + s[i + j * step] + s[ (j+1) * step - i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(j + 1) * column_end</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>s[right_mid + 1]</expression-string>
         <language-id>Python</language-id>
@@ -649,14 +670,33 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>val_sum / 10</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leetCode/find_median_sorted_array04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" selection-start-line="27" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/convert06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetCode/find_median_sorted_array04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2700">
@@ -865,16 +905,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetCode/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetCode/find_median_sorted_array04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -884,8 +914,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetCode/convert06.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="28">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

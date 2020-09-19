@@ -3,7 +3,8 @@ from list_node import Lists
 # from add_two_numbers02 import AddTwoNumbers02
 # from length_of_longest_substring03 import Solution
 # from find_median_sorted_array04 import FindMedianSortedArrays
-from longest_palindrome05 import LongestPalindrome
+# from longest_palindrome05 import LongestPalindrome
+from convert06 import Convert
 
 
 def create_list():
@@ -71,16 +72,37 @@ def palindromeStr():
     return s
 
 
+def convertStr():
+    # str = 'LEETCODEISHIRING'
+    # str='LEETCODEISHIRING'
+    # str='PAYPALISHIRING'
+    # str='PAYPALISHIRIN'
+    # str='PAYPALISHIRI'
+    # str='PAYPALISHIR'
+    # str=''
+    # str = 'PAY'
+    # str = 'PAYP'
+    # str="A"
+    str = "AB"
+    return str
+
+
 if __name__ == '__main__':
-    s = palindromeStr()
+    str = convertStr()
+    print(Convert().convert(str, 1))
+    # print(Convert().convert(str, 3)=='LCIRETOESIIGEDHN')
+    # print(Convert().convert(str, 4)=='LDREOEIIECIHNTSG')
+    # assert Convert().convert(str, 3), "LCIRETOESIIGEDHN"
+
+    # s = palindromeStr()
     # print(s[0] == s[2])
 
-    print(LongestPalindrome().longest_palindrome(s))
+    # print(LongestPalindrome().longest_palindrome(s))
 
-# l1, l2 = create_list()
-# list = AddTwoNumbers02().add_two_numbers(l1, l2)
-# print(list)
-# index_str()
-# print(Solution().lengthOfLongestSubstring(return_str()))
-# list1, list2 = return_lsit()
-# print(FindMedianSortedArrays().findMedianSortedArrays(list1, list2))
+    # l1, l2 = create_list()
+    # list = AddTwoNumbers02().add_two_numbers(l1, l2)
+    # print(list)
+    # index_str()
+    # print(Solution().lengthOfLongestSubstring(return_str()))
+    # list1, list2 = return_lsit()
+    # print(FindMedianSortedArrays().findMedianSortedArrays(list1, list2))
