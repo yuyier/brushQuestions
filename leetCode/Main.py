@@ -10,7 +10,8 @@ from tree_node import CreateTree
 # from sum_of_left_leaves404 import SumOfLeftLeaves
 # from running_sum1480 import RunningSum
 # from kids_with_candies1431 import KidsWithCandies
-from num_identical_pairs1512 import NumIdenticalPairs
+# from num_identical_pairs1512 import NumIdenticalPairs
+from shuffle1470 import Shuffle
 
 
 def create_list01():
@@ -108,9 +109,11 @@ def reverseNum():
 if __name__ == '__main__':
     # list_nums = [1, 1, 2, 2, 3, 2, 2, 4]
     # list_nums = [1, 1, 1, 1]
-    # list_nums = [1, 2, 3]
-    list_nums = [1, 2, 3, 1, 1, 3]
-    print(NumIdenticalPairs().numIdenticalPairs(list_nums))
+    # list_nums = [1, 2, 3, 4]
+    # list_nums = [1, 2, 3, 1, 1, 3]
+    list_nums = [1, 2]
+    print(Shuffle().shuffle(list_nums, 1))
+# print(NumIdenticalPairs().numIdenticalPairs(list_nums))
 # list = [1, 2, 3, 4, 5]
 # list = [1, 2, 3]
 # list = [1, 2, 3, 4, 5, 6, 7]
