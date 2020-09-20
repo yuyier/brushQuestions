@@ -7,7 +7,8 @@ from tree_node import CreateTree
 # from longest_palindrome05 import LongestPalindrome
 # from convert06 import Convert
 # from Reverse07 import Reverse
-from sum_of_left_leaves404 import SumOfLeftLeaves
+# from sum_of_left_leaves404 import SumOfLeftLeaves
+from running_sum1480 import RunningSum
 
 
 def create_list01():
@@ -105,16 +106,17 @@ def reverseNum():
 if __name__ == '__main__':
     # list = [1, 2, 3, 4, 5]
     # list = [1, 2, 3]
-    #list = [1, 2, 3, 4, 5, 6, 7]
+    # list = [1, 2, 3, 4, 5, 6, 7]
     # list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
     # list = []
     # list = [1]
     # list = [1, 2]
-    tree = CreateTree().return_tree(list)
-    print(SumOfLeftLeaves().sumOfLeftLeaves(tree))
-    # reverse_num = reverseNum()
-    # print(Reverse().reverse(reverse_num))
-    # print(pow(2, 31))
+    print(RunningSum().runningSum(list))
+# tree = CreateTree().return_tree(list)
+# print(SumOfLeftLeaves().sumOfLeftLeaves(tree))
+# reverse_num = reverseNum()
+# print(Reverse().reverse(reverse_num))
+# print(pow(2, 31))
 # str = convertStr()
 # print(Convert().convert(str, 1))
 # print(Convert().convert(str, 3)=='LCIRETOESIIGEDHN')
