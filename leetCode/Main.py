@@ -10,7 +10,7 @@ from tree_node import CreateTree
 # from sum_of_left_leaves404 import SumOfLeftLeaves
 # from running_sum1480 import RunningSum
 # from kids_with_candies1431 import KidsWithCandies
-from num_identical_pairs import NumIdenticalPairs
+from num_identical_pairs1512 import NumIdenticalPairs
 
 
 def create_list01():
