@@ -12,7 +12,8 @@ from tree_node import CreateTree
 # from kids_with_candies1431 import KidsWithCandies
 # from num_identical_pairs1512 import NumIdenticalPairs
 # from shuffle1470 import Shuffle
-from reverse_feft_words_offer58 import ReverseLeftWords
+# from reverse_feft_words_offer58 import ReverseLeftWords
+from sum_odd_length_subarrays5503 import SumOddLengthSubarrays
 
 
 def create_list01():
@@ -108,11 +109,20 @@ def reverseNum():
 
 
 if __name__ == '__main__':
+    list_nums = [1]
+    # list_nums = [1, 2]
+    # list_nums = [1, 2, 3]
+    # list_nums = [1, 4, 2, 5, 3]
+    # list_nums = [1, 4, 2, 5]
+    # list_nums = [10, 11, 12]
+    # list_nums=[]
+    # list_nums = [6, 9, 14, 5, 3, 8, 7, 12, 13, 1]
+    print(SumOddLengthSubarrays().sumOddLengthSubarrays(list_nums))
     # s = "abcdefg"
     # k = 2
-    s = "lrloseumgh"
-    k = 6
-    print(ReverseLeftWords().reverseLeftWords(s, k))
+    # s = "lrloseumgh"
+    # k = 6
+    # print(ReverseLeftWords().reverseLeftWords(s, k))
 
     # list_nums = [1, 1, 2, 2, 3, 2, 2, 4]
     # list_nums = [1, 1, 1, 1]
