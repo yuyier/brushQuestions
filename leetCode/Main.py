@@ -9,8 +9,8 @@ from tree_node import CreateTree
 # from Reverse07 import Reverse
 # from sum_of_left_leaves404 import SumOfLeftLeaves
 # from running_sum1480 import RunningSum
-
-from kids_with_candies1431 import KidsWithCandies
+# from kids_with_candies1431 import KidsWithCandies
+from num_identical_pairs import NumIdenticalPairs
 
 
 def create_list01():
@@ -106,16 +106,21 @@ def reverseNum():
 
 
 if __name__ == '__main__':
-    # list = [1, 2, 3, 4, 5]
-    # list = [1, 2, 3]
-    list = [1, 2, 3, 4, 5, 6, 7]
-    # list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-    # list = []
-    # list = [1]
-    # list = [1, 2]
-    extra = 2
-    print(KidsWithCandies().kidsWithCandies(list, extra))
-    # print(RunningSum().runningSum(list))
+    # list_nums = [1, 1, 2, 2, 3, 2, 2, 4]
+    # list_nums = [1, 1, 1, 1]
+    # list_nums = [1, 2, 3]
+    list_nums = [1, 2, 3, 1, 1, 3]
+    print(NumIdenticalPairs().numIdenticalPairs(list_nums))
+# list = [1, 2, 3, 4, 5]
+# list = [1, 2, 3]
+# list = [1, 2, 3, 4, 5, 6, 7]
+# list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+# list = []
+# list = [1]
+# list = [1, 2]
+# extra = 2
+# print(KidsWithCandies().kidsWithCandies(list, extra))
+# print(RunningSum().runningSum(list))
 # tree = CreateTree().return_tree(list)
 # print(SumOfLeftLeaves().sumOfLeftLeaves(tree))
 # reverse_num = reverseNum()
