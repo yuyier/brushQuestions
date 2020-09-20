@@ -30,6 +30,7 @@ class Reverse(object):
         else:
             abs_x = x
 
+        # 核心代码
         while abs_x > 0:
             reverse_x = reverse_x * 10 + abs_x % 10
             abs_x = int(abs_x / 10)
