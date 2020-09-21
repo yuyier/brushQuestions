@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode/sum_odd_length_subarrays5503.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/delete_node.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetCode/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Main.py" afterDir="false" />
     </list>
@@ -19,8 +19,8 @@
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetCode/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="111" column="4" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
+            <state relative-caret-position="307">
+              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -28,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sum_odd_length_subarrays5503.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetCode/sum_odd_length_subarrays5503.py">
+      <file leaf-file-name="list_node.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetCode/list_node.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="105">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delete_node.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetCode/delete_node.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -107,6 +116,7 @@
         <option value="$PROJECT_DIR$/leetCode/shuffle1470.py" />
         <option value="$PROJECT_DIR$/leetCode/reverse_feft_words_offer58.py" />
         <option value="$PROJECT_DIR$/leetCode/sum_odd_length_subarrays5503.py" />
+        <option value="$PROJECT_DIR$/leetCode/delete_node.py" />
         <option value="$PROJECT_DIR$/leetCode/Main.py" />
       </list>
     </option>
@@ -123,8 +133,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,13 +149,20 @@
               <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Main.py" type="8704e2dd:PyFileNode" />
+              <item name="list_node.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
               <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="sum_odd_length_subarrays5503.py" type="8704e2dd:PyFileNode" />
+              <item name="list_node.py" type="8704e2dd:PyFileNode" />
+              <item name="Lists" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brushQuestions" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Main.py" type="8704e2dd:PyFileNode" />
             </path>
             <path>
               <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
@@ -168,21 +183,6 @@
               <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="734389694" type="70582d5e:PySkeletonsNode" />
-              <item name="builtins.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="734389694" type="70582d5e:PySkeletonsNode" />
-              <item name="builtins.py" type="8704e2dd:PyFileNode" />
-              <item name="list" type="dd8bbb05:PyElementNode" />
-            </path>
-            <path>
-              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="Typeshed Stubs" type="9c07c3ae:PyTypeShedNode" />
             </path>
             <path>
@@ -191,28 +191,13 @@
               <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="Typeshed Stubs" type="9c07c3ae:PyTypeShedNode" />
               <item name="3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="Typeshed Stubs" type="9c07c3ae:PyTypeShedNode" />
-              <item name="3" type="462c0819:PsiDirectoryNode" />
-              <item name="typing.pyi" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="brushQuestions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (hubApiAuto) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="Typeshed Stubs" type="9c07c3ae:PyTypeShedNode" />
-              <item name="3" type="462c0819:PsiDirectoryNode" />
-              <item name="typing.pyi" type="8704e2dd:PyFileNode" />
-              <item name="Mapping" type="dd8bbb05:PyElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -433,12 +418,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2826618" side_tool="true" weight="0.32923076" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.3340336" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.3340336" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7173382" weight="0.3340336" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7173382" visible="true" weight="0.24894957" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6986817" visible="true" weight="0.26800978" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6986817" visible="true" weight="0.27106228" />
       <window_info id="Structure" order="1" sideWeight="0.30131826" side_tool="true" weight="0.26800978" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -457,16 +442,17 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.5358324" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.5358324" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.4244763" />
@@ -475,11 +461,10 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2826618" side_tool="true" weight="0.32923076" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -688,21 +673,6 @@
           <line>7</line>
           <option name="timeStamp" value="128" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode/sum_odd_length_subarrays5503.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode/sum_odd_length_subarrays5503.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="135" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode/sum_odd_length_subarrays5503.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="136" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -764,16 +734,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetCode/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-end-line="59" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetCode/find_median_sorted_array04-2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -973,13 +933,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetCode/list_node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetCode/tree_node.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1052,15 +1005,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetCode/sum_odd_length_subarrays5503.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="375">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/delete_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/list_node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetCode/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="111" column="4" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
+        <state relative-caret-position="307">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>

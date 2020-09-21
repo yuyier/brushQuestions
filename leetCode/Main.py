@@ -17,10 +17,10 @@ from sum_odd_length_subarrays5503 import SumOddLengthSubarrays
 
 
 def create_list01():
-    # list1 = [3, 5, 1, 7, 9]
-    # list2 = [4, 6, 2, 1]
-    list1 = [5]
-    list2 = [5]
+    list1 = [3, 5, 1, 7, 9]
+    list2 = [1]
+    # list1 = [5]
+    # list2 = [5]
     link_list1 = (Lists().createList(list1))
     link_list2 = (Lists().createList(list2))
     return link_list1, link_list2
@@ -109,7 +109,8 @@ def reverseNum():
 
 
 if __name__ == '__main__':
-    list_nums = [1]
+    link_list1, link_list2 = create_list01()
+    # list_nums = [1]
     # list_nums = [1, 2]
     # list_nums = [1, 2, 3]
     # list_nums = [1, 4, 2, 5, 3]
@@ -117,7 +118,7 @@ if __name__ == '__main__':
     # list_nums = [10, 11, 12]
     # list_nums=[]
     # list_nums = [6, 9, 14, 5, 3, 8, 7, 12, 13, 1]
-    print(SumOddLengthSubarrays().sumOddLengthSubarrays(list_nums))
+    # print(SumOddLengthSubarrays().sumOddLengthSubarrays(list_nums))
     # s = "abcdefg"
     # k = 2
     # s = "lrloseumgh"
