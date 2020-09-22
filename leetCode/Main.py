@@ -14,7 +14,7 @@ from tree_node import CreateTree
 # from shuffle1470 import Shuffle
 # from reverse_feft_words_offer58 import ReverseLeftWords
 # from sum_odd_length_subarrays5503 import SumOddLengthSubarrays
-from game_guess import Game
+from game_guess_LCP01 import Game
 
 
 def create_list01():
