@@ -14,7 +14,8 @@ from tree_node import CreateTree
 # from shuffle1470 import Shuffle
 # from reverse_feft_words_offer58 import ReverseLeftWords
 # from sum_odd_length_subarrays5503 import SumOddLengthSubarrays
-from game_guess_LCP01 import Game
+# from game_guess_LCP01 import Game
+from num_jewels_in_stones771 import NumJewelsInStones
 
 
 def create_list01():
@@ -110,11 +111,16 @@ def reverseNum():
 
 
 if __name__ == '__main__':
+    # J = "aA"
+    # S = "aAAbbbb"
+    J = "z"
+    S = "ZZ"
+    print(NumJewelsInStones().numJewelsInStones(J, S))
     # guess = [1, 2, 3]
     # answer = [1, 2, 3]
-    guess = [2, 2, 3]
-    answer = [3, 2, 1]
-    print(Game().game(guess, answer))
+    # guess = [2, 2, 3]
+    # answer = [3, 2, 1]
+    # print(Game().game(guess, answer))
     # link_list1, link_list2 = create_list01()
     # list_nums = [1]
     # list_nums = [1, 2]
