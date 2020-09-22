@@ -13,7 +13,8 @@ from tree_node import CreateTree
 # from num_identical_pairs1512 import NumIdenticalPairs
 # from shuffle1470 import Shuffle
 # from reverse_feft_words_offer58 import ReverseLeftWords
-from sum_odd_length_subarrays5503 import SumOddLengthSubarrays
+# from sum_odd_length_subarrays5503 import SumOddLengthSubarrays
+from game_guess import Game
 
 
 def create_list01():
@@ -109,7 +110,12 @@ def reverseNum():
 
 
 if __name__ == '__main__':
-    link_list1, link_list2 = create_list01()
+    # guess = [1, 2, 3]
+    # answer = [1, 2, 3]
+    guess = [2, 2, 3]
+    answer = [3, 2, 1]
+    print(Game().game(guess, answer))
+    # link_list1, link_list2 = create_list01()
     # list_nums = [1]
     # list_nums = [1, 2]
     # list_nums = [1, 2, 3]
