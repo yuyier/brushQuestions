@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="提交">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/add_two_link_number03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/add_two_number01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/eventsplit2178.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/kmaxsum2600.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/matrixsum2679.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Main.py" afterDir="false" />
-    </list>
+    <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -433,7 +423,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585974773318</updated>
       <workItem from="1690470669602" duration="9782000" />
-      <workItem from="1691715151760" duration="11351000" />
+      <workItem from="1691715151760" duration="11755000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <option name="closed" value="true" />
@@ -443,7 +433,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693533086413</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="提交">
+      <option name="closed" value="true" />
+      <created>1693534955666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693534955666</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
