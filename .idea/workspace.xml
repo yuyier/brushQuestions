@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="">
+    <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="提交">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetCode/add_two_link_number03.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetCode/add_two_number01.py" afterDir="false" />
@@ -433,8 +433,17 @@
       <option name="presentableId" value="Default" />
       <updated>1585974773318</updated>
       <workItem from="1690470669602" duration="9782000" />
-      <workItem from="1691715151760" duration="9467000" />
+      <workItem from="1691715151760" duration="11351000" />
     </task>
+    <task id="LOCAL-00001" summary="提交">
+      <option name="closed" value="true" />
+      <created>1693533086413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693533086413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -510,6 +519,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
