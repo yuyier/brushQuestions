@@ -5,10 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="提交">
-      <change afterPath="$PROJECT_DIR$/leetCode/lengthoflongestsubstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/threesum15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/addbinary67.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/climbstairs70.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/deleteduplicates83.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/findkthlargest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/inordertraversal94.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/ispalindrome09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/issametree100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/issymmetric101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/isvalid20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/lengthfLastword58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/longestcommonprefix14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/longestpalindrome05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/merge88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/mergetwolist21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/mysqrt69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/numpairsdivisibleby601010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/plusone66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/removeduplicate26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/removeelement27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/rob213.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/romantoint13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/searchinsert35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/strstr28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/threesumcloset16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetCode/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/threesum15.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/threesum15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/tree_node.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/tree_node.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +110,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="python_letcode_branch" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -401,9 +431,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Main" />
         <item itemvalue="Python.find_median_sorted_array05" />
         <item itemvalue="Python.return_resp_bool" />
+        <item itemvalue="Python.Main" />
         <item itemvalue="Python.tcpClient" />
         <item itemvalue="Python.tcpServer" />
       </list>
@@ -429,7 +459,9 @@
       <updated>1585974773318</updated>
       <workItem from="1690470669602" duration="9782000" />
       <workItem from="1691715151760" duration="25318000" />
-      <workItem from="1694258653177" duration="6374000" />
+      <workItem from="1694258653177" duration="30327000" />
+      <workItem from="1696326956035" duration="5708000" />
+      <workItem from="1696513806570" duration="72522000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <option name="closed" value="true" />
@@ -455,7 +487,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693535430930</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="提交">
+      <option name="closed" value="true" />
+      <created>1694343235167</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694343235167</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -744,6 +784,61 @@
           <line>32</line>
           <option name="timeStamp" value="130" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/threesum15.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/numpairsdivisibleby601010.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/longestpalindrome05.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/longestcommonprefix14.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/removeduplicate26.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/removeelement27.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/addbinary67.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/mysqrt69.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/climbstairs70.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/climbstairs70.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/climbstairs70.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -755,7 +850,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/brushQuestions$Main.coverage" NAME="Main Coverage Results" MODIFIED="1694342839230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetCode" />
+    <SUITE FILE_PATH="coverage/brushQuestions$Main.coverage" NAME="Main Coverage Results" MODIFIED="1699623697629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetCode" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">

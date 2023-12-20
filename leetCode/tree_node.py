@@ -17,46 +17,24 @@ class CreateTree(object):
         i = i + 1
         while len(list) > 0:
             tree = list.pop(0)
+            if tree == None:
+                continue
             if i < list_len:
-                tree.left = TreeNode(list_num[i])
-                left_node = tree.left
-                list.append(left_node)
+                if list_num[i]:
+                    tree.left = TreeNode(list_num[i])
+                else:
+                    tree.left = None
+                list.append(tree.left)
                 i = i + 1
             else:
                 break
             if i < list_len:
-                tree.right = TreeNode(list_num[i])
-                right_node = tree.right
-                list.append(right_node)
+                if list_num[i]:
+                    tree.right = TreeNode(list_num[i])
+                else:
+                    tree.right = None
+                list.append(tree.right)
                 i = i + 1
             else:
                 break
         return root
-
-    # def create_tree(self, list_num):
-    #     list = []
-    #     i = 0
-    #     list_len = len(list_num)
-    #     if list_len < 0:
-    #         return
-    #     root = TreeNode(list_num[i])
-    #     list.append(root)
-    #     i = i + 1
-    #     while len(list) > 0:
-    #         tree = list.pop()
-    #         if i < list_len:
-    #             tree.left = TreeNode(list_num[i])
-    #             left_node = tree.left
-    #             list.append(left_node)
-    #             i = i + 1
-    #         else:
-    #             break
-    #         if i < list_len:
-    #             tree.right = TreeNode(list_num[i])
-    #             right_node = tree.right
-    #             list.append(right_node)
-    #             i = i + 1
-    #         else:
-    #             break
-    #
-    #     return root
