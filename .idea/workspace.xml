@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="提交">
-      <change afterPath="$PROJECT_DIR$/crawlerTools/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawlerTools/different_crawler/crawler_case/crawler_common_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawlerTools/different_crawler/crawler_case/douban_crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawlerTools/different_crawler/crawler_case/douban_crawler_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawlerTools/different_crawler/urlib_crawl/urllib_beautifulsoup_crawl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawlerTools/different_crawler/urlib_crawl/urllib_error_crawl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawlerTools/different_crawler/urlib_crawl/urllib_parse_crawl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawlerTools/different_crawler/urlib_crawl/urllib_request_crawl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +82,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="python_crawler_branch" />
+        <entry key="$PROJECT_DIR$" value="python_letcode_branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -220,21 +210,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Desktop/ChenLiqingInterviewPrepare/Coding/brushQuestions",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Desktop/ChenLiqingInterviewPrepare/Coding/brushQuestions&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings sdk-home="$USER_HOME$/venv/hubApiAuto/bin/python" is-module-sdk="true">
@@ -254,7 +244,7 @@
       <recent name="E:\Desktop\ChenLiqingInterviewPrepare\Coding\brushQuestions\crawlerTools\different_crawler\urlib_crawl" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.douban_crawler_excel">
+  <component name="RunManager" selected="Python.douban_crawler">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -451,7 +441,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.douban_crawler_excel" />
+      <item itemvalue="Python.douban_crawler" />
+      <item itemvalue="Python.urllib_request_crawl" />
       <item itemvalue="Python.urllib_beautifulsoup_crawl" />
       <item itemvalue="Python.urllib_error_crawl" />
       <item itemvalue="Python.urllib_parse_crawl" />
@@ -459,7 +450,6 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.douban_crawler_excel" />
         <item itemvalue="Python.urllib_request_crawl (1)" />
         <item itemvalue="Python.urllib_beautifulsoup_crawl" />
         <item itemvalue="Python.urllib_parse_crawl" />
