@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="提交">
-      <change afterPath="$PROJECT_DIR$/leetCode/addbinary67.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/climbstairs70.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/deleteduplicates83.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/findkthlargest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/inordertraversal94.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/ispalindrome09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/issametree100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/issymmetric101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/isvalid20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/lengthfLastword58.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/longestcommonprefix14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/longestpalindrome05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/merge88.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/mergetwolist21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/mysqrt69.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/numpairsdivisibleby601010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/plusone66.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/removeduplicate26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/removeelement27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/rob213.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/romantoint13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/searchinsert35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/strstr28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/threesumcloset16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptionLearn/exception_learn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/threesum15.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/threesum15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/tree_node.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/tree_node.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +85,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="python_letcode_branch" />
+        <entry key="$PROJECT_DIR$" value="python_tools_branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -246,11 +219,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Desktop/陈理青面试准备2023/Coding/brushQuestions&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Desktop/ChenLiqingInterviewPrepare/Coding/brushQuestions&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -269,8 +243,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/leetCode" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\ChenLiqingInterviewPrepare\Coding\brushQuestions\crawlerTools\different_crawler\urlib_crawl" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.Main">
+  <component name="RunManager" selected="Python.exception_learn">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -312,6 +289,39 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="leetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="leetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -326,6 +336,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="leetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exception_learn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="brushQuestions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exceptionLearn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptionLearn/exception_learn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,7 +454,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tcpServer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="urllib_request_crawl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="brushQuestions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -408,12 +462,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mock_tcp_server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crawlerTools/different_crawler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mock_tcp_server/tcpServer.py" />
+      <option name="SCRIPT_NAME" value="E:\Desktop\ChenLiqingInterviewPrepare\Coding\brushQuestions\crawlerTools\different_crawler\urlib_crawl\urllib_request_crawl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -422,20 +476,114 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="leetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="leetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="leetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="leetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="leetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="leetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.tcpServer" />
-      <item itemvalue="Python.tcpClient" />
+      <item itemvalue="Python.urllib_request_crawl" />
       <item itemvalue="Python.Main" />
-      <item itemvalue="Python.return_resp_bool" />
+      <item itemvalue="Python.exception_learn" />
       <item itemvalue="Python.find_median_sorted_array05" />
+      <item itemvalue="Python.return_resp_bool" />
+      <item itemvalue="Python.tcpClient" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exception_learn" />
         <item itemvalue="Python.find_median_sorted_array05" />
         <item itemvalue="Python.return_resp_bool" />
         <item itemvalue="Python.Main" />
         <item itemvalue="Python.tcpClient" />
-        <item itemvalue="Python.tcpServer" />
       </list>
     </recent_temporary>
   </component>
@@ -459,9 +607,9 @@
       <updated>1585974773318</updated>
       <workItem from="1690470669602" duration="9782000" />
       <workItem from="1691715151760" duration="25318000" />
-      <workItem from="1694258653177" duration="30327000" />
-      <workItem from="1696326956035" duration="5708000" />
-      <workItem from="1696513806570" duration="72522000" />
+      <workItem from="1694258653177" duration="6374000" />
+      <workItem from="1703768162836" duration="27366000" />
+      <workItem from="1704552929504" duration="5319000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <option name="closed" value="true" />
@@ -487,15 +635,7 @@
       <option name="project" value="LOCAL" />
       <updated>1693535430930</updated>
     </task>
-    <task id="LOCAL-00004" summary="提交">
-      <option name="closed" value="true" />
-      <created>1694343235167</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1694343235167</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -850,7 +990,16 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/brushQuestions$urllib_crawl__1_.coverage" NAME="urllib_crawl (1) Coverage Results" MODIFIED="1703859034887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
     <SUITE FILE_PATH="coverage/brushQuestions$Main.coverage" NAME="Main Coverage Results" MODIFIED="1699623697629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetCode" />
+    <SUITE FILE_PATH="coverage/brushQuestions$urllib_parse_crawl.coverage" NAME="urllib_parse_crawl Coverage Results" MODIFIED="1703914700675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
+    <SUITE FILE_PATH="coverage/brushQuestions$douban_crawler.coverage" NAME="douban_crawler Coverage Results" MODIFIED="1704340560118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler/crawler_case" />
+    <SUITE FILE_PATH="coverage/brushQuestions$urllib_request_crawl__1_.coverage" NAME="urllib_request_crawl (1) Coverage Results" MODIFIED="1703996274186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler/urlib_crawl" />
+    <SUITE FILE_PATH="coverage/brushQuestions$Main__1_.coverage" NAME="crawler_main Coverage Results" MODIFIED="1703677549088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
+    <SUITE FILE_PATH="coverage/brushQuestions$urllib_error_crawl.coverage" NAME="urllib_error_crawl Coverage Results" MODIFIED="1703860510667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
+    <SUITE FILE_PATH="coverage/brushQuestions$exception_learn.coverage" NAME="exception_learn Coverage Results" MODIFIED="1704775137118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptionLearn" />
+    <SUITE FILE_PATH="coverage/brushQuestions$urllib_beautifulsoup_crawl.coverage" NAME="urllib_beautifulsoup_crawl Coverage Results" MODIFIED="1703994869566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
+    <SUITE FILE_PATH="coverage/brushQuestions$urlopen_crawl_baidu.coverage" NAME="urlopen_crawl_baidu Coverage Results" MODIFIED="1703836893090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
