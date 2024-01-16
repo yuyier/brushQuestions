@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="提交">
-      <change afterPath="$PROJECT_DIR$/fileConvertion/image_to_pdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/osFileOperation/search_mkdir_rmdir_in_computer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileConvertion/word_ppt_excel_to_pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileConvertion/word_ppt_to_pdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileConvertion/image_to_pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileOperation/fileConvertion/image_to_pdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileConvertion/pdf_to_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileOperation/fileConvertion/pdf_to_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileConvertion/word_ppt_to_pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileOperation/fileConvertion/word_ppt_to_pdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osFileOperation/search_mkdir_rmdir_in_computer.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileOperation/osFileOperation/search_mkdir_rmdir_in_computer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,6 +244,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/leetCode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\ChenLiqingInterviewPrepare\Coding\brushQuestions\fileOperation" />
     </key>
   </component>
   <component name="RunManager" selected="Python.image_to_pdf">
@@ -986,14 +989,9 @@
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/fileConvertion/word_ppt_to_pdf.py</url>
+          <url>file://$PROJECT_DIR$/fileOperation/fileConvertion/word_ppt_to_pdf.py</url>
           <line>73</line>
           <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/fileConvertion/image_to_pdf.py</url>
-          <line>54</line>
-          <option name="timeStamp" value="171" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1017,7 +1015,7 @@
     <SUITE FILE_PATH="coverage/brushQuestions$search_mkdir_file_in_computer.coverage" NAME="search_mkdir_file_in_computer Coverage Results" MODIFIED="1705295501737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/osFileOperation" />
     <SUITE FILE_PATH="coverage/brushQuestions$urlopen_crawl_baidu.coverage" NAME="urlopen_crawl_baidu Coverage Results" MODIFIED="1703836893090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
     <SUITE FILE_PATH="coverage/brushQuestions$os_path_module.coverage" NAME="os_path_module Coverage Results" MODIFIED="1704983252453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/osLearn" />
-    <SUITE FILE_PATH="coverage/brushQuestions$image_to_pdf.coverage" NAME="image_to_pdf Coverage Results" MODIFIED="1705296089099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fileConvertion" />
+    <SUITE FILE_PATH="coverage/brushQuestions$image_to_pdf.coverage" NAME="image_to_pdf Coverage Results" MODIFIED="1705321426577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fileConvertion" />
     <SUITE FILE_PATH="coverage/brushQuestions$word_ppt_excel_to_pdf.coverage" NAME="word_ppt_excel_to_pdf Coverage Results" MODIFIED="1705069653550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fileConvertion" />
     <SUITE FILE_PATH="coverage/brushQuestions$douban_crawler.coverage" NAME="douban_crawler Coverage Results" MODIFIED="1704340560118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler/crawler_case" />
     <SUITE FILE_PATH="coverage/brushQuestions$search_file_in_computer.coverage" NAME="search_file_in_computer Coverage Results" MODIFIED="1705121828623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/searchFile" />

@@ -68,4 +68,4 @@ class PdfToWord(object):
                     print('完成')
                     exit(0)
 if __name__ == '__main__':
-    main()
+    PdfToWord().main()
