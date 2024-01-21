@@ -66,7 +66,7 @@ class OsPathModule(object):
 
 if __name__=="__main__":
     # OsPathModule().osPathjoin()
-    # OsPathModule().osPathAbspath()
+    OsPathModule().osPathAbspath()
     # OsPathModule().osPathBasename()
     # OsPathModule().osPathDirname()
     # OsPathModule().osPathSplit()

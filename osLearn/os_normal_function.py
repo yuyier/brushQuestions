@@ -16,8 +16,8 @@ class OSNormalFunction(object):
         print("os.environ[\"OS\"]:", os.environ["OS"])
 
     def osWalk(self):
-        for dirpath, dirnames, filenames in os.walk("E:\Desktop"):
-            if str(dirpath).__contains__("陈理青"):
+        for dirpath, dirnames, filenames in os.walk("C:\Windows"):
+            if str(dirpath).__contains__("etc"):
                 print("dirpath:", dirpath)
                 print("dirnames:", dirnames)
                 print("filenames:", filenames)
@@ -56,10 +56,10 @@ class OSNormalFunction(object):
 if __name__ == "__main__":
     # OSNormalFunction().osName()
     # OSNormalFunction().osEnviron()
-    # OSNormalFunction().osWalk()
+    OSNormalFunction().osWalk()
     # OSNormalFunction().osListdir()
     # OSNormalFunction().osMakdir()
-    OSNormalFunction().osRemove()
+    # OSNormalFunction().osRemove()
     # OSNormalFunction().osRename()
     # OSNormalFunction().osGetcwd()
     # OSNormalFunction().osChdir()
