@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a7a7a51-31c6-4a64-8036-277c90568969" name="Default" comment="提交">
-      <change afterPath="$PROJECT_DIR$/leetCode/is_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/max_profit121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/remove_duplicates80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/rotate189.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_12_25_0025_15_39__Default_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_12_25_0025_15_39__Default_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +246,7 @@
       <recent name="$PROJECT_DIR$/leetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.is_palindrome125">
+  <component name="RunManager" selected="Python.rotate189">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -342,28 +343,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="find_median_sorted_array05" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode/find_median_sorted_array04-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="is_palindrome125" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="brushQuestions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -430,8 +409,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="return_resp_bool" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetCode" />
+    <configuration name="remove_duplicates80" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="brushQuestions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -443,7 +422,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode/return_resp_bool.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode/remove_duplicates80.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rotate189" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="brushQuestions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetCode/rotate189.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -546,19 +547,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.remove_duplicates80" />
+      <item itemvalue="Python.rotate189" />
       <item itemvalue="Python.majority_element169" />
       <item itemvalue="Python.max_profit121" />
-      <item itemvalue="Python.return_resp_bool" />
-      <item itemvalue="Python.find_median_sorted_array05" />
       <item itemvalue="Python.is_palindrome125" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rotate189" />
+        <item itemvalue="Python.remove_duplicates80" />
         <item itemvalue="Python.is_palindrome125" />
         <item itemvalue="Python.max_profit121" />
         <item itemvalue="Python.majority_element169" />
-        <item itemvalue="Python.find_median_sorted_array05" />
-        <item itemvalue="Python.return_resp_bool" />
       </list>
     </recent_temporary>
   </component>
@@ -943,14 +944,19 @@
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetCode/majority_element169.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="172" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/leetCode/is_palindrome.py</url>
           <line>6</line>
           <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/remove_duplicates80.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetCode/rotate189.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="177" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -965,24 +971,29 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/brushQuestions$urllib_crawl__1_.coverage" NAME="urllib_crawl (1) Coverage Results" MODIFIED="1703859034887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
     <SUITE FILE_PATH="coverage/brushQuestions$word_to_pdf__1_.coverage" NAME="word_to_pdf (1) Coverage Results" MODIFIED="1704799312176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fileConvertion" />
+    <SUITE FILE_PATH="coverage/brushQuestions$output_print_format.coverage" NAME="output_print_format Coverage Results" MODIFIED="1705666443812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inputAndOutputLearn" />
+    <SUITE FILE_PATH="coverage/brushQuestions$exception_learn.coverage" NAME="exception_learn Coverage Results" MODIFIED="1704776105433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptionLearn" />
+    <SUITE FILE_PATH="coverage/brushQuestions$urllib_beautifulsoup_crawl.coverage" NAME="urllib_beautifulsoup_crawl Coverage Results" MODIFIED="1703994869566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
+    <SUITE FILE_PATH="coverage/brushQuestions$word_ppt_excel_to_pdf.coverage" NAME="word_ppt_excel_to_pdf Coverage Results" MODIFIED="1705069653550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fileConvertion" />
+    <SUITE FILE_PATH="coverage/brushQuestions$urllib_request_crawl__1_.coverage" NAME="urllib_request_crawl (1) Coverage Results" MODIFIED="1703996274186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler/urlib_crawl" />
+    <SUITE FILE_PATH="coverage/brushQuestions$os_normal_function.coverage" NAME="os_normal_function Coverage Results" MODIFIED="1705810756510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/osLearn" />
+    <SUITE FILE_PATH="coverage/brushQuestions$urllib_error_crawl.coverage" NAME="urllib_error_crawl Coverage Results" MODIFIED="1703860510667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
     <SUITE FILE_PATH="coverage/brushQuestions$word_to_pdf.coverage" NAME="word_to_pdf Coverage Results" MODIFIED="1704797636837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fileCovertion" />
+    <SUITE FILE_PATH="coverage/brushQuestions$input_learn.coverage" NAME="input_learn Coverage Results" MODIFIED="1705666670450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inputAndOutputLearn" />
     <SUITE FILE_PATH="coverage/brushQuestions$Main.coverage" NAME="Main Coverage Results" MODIFIED="1699623697629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetCode" />
     <SUITE FILE_PATH="coverage/brushQuestions$urllib_parse_crawl.coverage" NAME="urllib_parse_crawl Coverage Results" MODIFIED="1703914700675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
     <SUITE FILE_PATH="coverage/brushQuestions$is_palindrome.coverage" NAME="is_palindrome Coverage Results" MODIFIED="1705549297413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetCode" />
+    <SUITE FILE_PATH="coverage/brushQuestions$file_read_and_write.coverage" NAME="file_read_and_write Coverage Results" MODIFIED="1705810746110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inputAndOutputLearn" />
     <SUITE FILE_PATH="coverage/brushQuestions$Main__1_.coverage" NAME="crawler_main Coverage Results" MODIFIED="1703677549088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
     <SUITE FILE_PATH="coverage/brushQuestions$majority_element169.coverage" NAME="majority_element169 Coverage Results" MODIFIED="1705409274367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetCode" />
-    <SUITE FILE_PATH="coverage/brushQuestions$exception_learn.coverage" NAME="exception_learn Coverage Results" MODIFIED="1704776105433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptionLearn" />
-    <SUITE FILE_PATH="coverage/brushQuestions$urllib_beautifulsoup_crawl.coverage" NAME="urllib_beautifulsoup_crawl Coverage Results" MODIFIED="1703994869566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
+    <SUITE FILE_PATH="coverage/brushQuestions$rotate189.coverage" NAME="rotate189 Coverage Results" MODIFIED="1706062361836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetCode" />
     <SUITE FILE_PATH="coverage/brushQuestions$search_mkdir_file_in_computer.coverage" NAME="search_mkdir_file_in_computer Coverage Results" MODIFIED="1705295501737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/osFileOperation" />
     <SUITE FILE_PATH="coverage/brushQuestions$urlopen_crawl_baidu.coverage" NAME="urlopen_crawl_baidu Coverage Results" MODIFIED="1703836893090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
-    <SUITE FILE_PATH="coverage/brushQuestions$os_path_module.coverage" NAME="os_path_module Coverage Results" MODIFIED="1704983252453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/osLearn" />
+    <SUITE FILE_PATH="coverage/brushQuestions$os_path_module.coverage" NAME="os_path_module Coverage Results" MODIFIED="1705667075649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/osLearn" />
     <SUITE FILE_PATH="coverage/brushQuestions$image_to_pdf.coverage" NAME="image_to_pdf Coverage Results" MODIFIED="1705321426577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fileConvertion" />
-    <SUITE FILE_PATH="coverage/brushQuestions$word_ppt_excel_to_pdf.coverage" NAME="word_ppt_excel_to_pdf Coverage Results" MODIFIED="1705069653550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fileConvertion" />
     <SUITE FILE_PATH="coverage/brushQuestions$douban_crawler.coverage" NAME="douban_crawler Coverage Results" MODIFIED="1704340560118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler/crawler_case" />
     <SUITE FILE_PATH="coverage/brushQuestions$search_file_in_computer.coverage" NAME="search_file_in_computer Coverage Results" MODIFIED="1705121828623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/searchFile" />
-    <SUITE FILE_PATH="coverage/brushQuestions$urllib_request_crawl__1_.coverage" NAME="urllib_request_crawl (1) Coverage Results" MODIFIED="1703996274186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler/urlib_crawl" />
-    <SUITE FILE_PATH="coverage/brushQuestions$os_normal_function.coverage" NAME="os_normal_function Coverage Results" MODIFIED="1704964137660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/osLearn" />
-    <SUITE FILE_PATH="coverage/brushQuestions$urllib_error_crawl.coverage" NAME="urllib_error_crawl Coverage Results" MODIFIED="1703860510667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlerTools/different_crawler" />
+    <SUITE FILE_PATH="coverage/brushQuestions$remove_duplicates80.coverage" NAME="remove_duplicates80 Coverage Results" MODIFIED="1706001334463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetCode" />
     <SUITE FILE_PATH="coverage/brushQuestions$max_profit121.coverage" NAME="max_profit121 Coverage Results" MODIFIED="1705481598820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetCode" />
     <SUITE FILE_PATH="coverage/brushQuestions$word_ppt_excel_to_pdf__1_.coverage" NAME="word_ppt_excel_to_pdf (1) Coverage Results" MODIFIED="1705220348897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fileConvertion" />
   </component>
