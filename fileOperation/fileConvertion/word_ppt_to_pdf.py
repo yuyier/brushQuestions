@@ -74,8 +74,8 @@ class WordPptToPDF(object):
 
 
 if __name__=="__main__":
-    word_path="E:\Desktop\document\word"
-    pdf_path="E:\Desktop\document\pdf"
+    word_path="E:\Desktop\hub文档\\2024年面试准备"
+    pdf_path="E:\Desktop\hub文档\\2024年面试准备"
     WordPptToPDF().fileToPDF(word_path,pdf_path,WordPptToPDF().origin_type["word_type"])
-    WordPptToPDF().fileToPDF(word_path, pdf_path, WordPptToPDF().origin_type["ppt_type"])
+    # WordPptToPDF().fileToPDF(word_path, pdf_path, WordPptToPDF().origin_type["ppt_type"])
     # WordPptExcelToPDF().fileToPDF(word_path, pdf_path, WordPptExcelToPDF().origin_type["excel_type"])
